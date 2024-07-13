@@ -1,124 +1,118 @@
 {
-    "product": [
-        {
-            "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
-            "name": "Trooper taza",
-            "price": "$60.00",
-            "Description": "Taza casco Trooper",
-            "category": "starwars",
-            "id": 1
-        },
-        {
-            "img": "https://cdn1.coppel.com/images/catalog/mkp/1773/5000/17733590-1.jpg",
-            "name": "Funko Vader",
-            "price": "$60.00",
-            "Description": "Funko coleccionable Darth vader",
-            "category": "starwars",
-            "id": 2
-        },
-        {
-            "img": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12N6pr.img?w=500&h=500&m=6",
-            "name": "Grogu (Baby Yoda)",
-            "price": "$100.00",
-            "Description": "Grogu peluche electrónico",
-            "category": "starwars",
-            "id": 3
-        },
-        {
-            "img": "https://cdn.shopify.com/s/files/1/0563/9831/5692/files/luke-skywalker-lightsaber-hilt.png?v=1656863305",
-            "name": "Lightsaber",
-            "price": "$3000.00",
-            "Description": "Sable de luz para duelos",
-            "category": "starwars",
-            "id": 4
-        },
-        {
-            "img": "https://tooys.mx/media/wysiwyg/Darth_Vader-estatua-premium-format-por-sideshow-19.png",
-            "name": "Darth Vader",
-            "price": "$450.00",
-            "Description": "DarDarth  Vader figura de coleción",
-            "category": "starwars",
-            "id": 5
-        },
-        {
-            "img": "https://www.cibermoda.mx/assets/images/craft_images/productos/Consola-Retro-Portatil-X12-Plus-pantalla-7-pulgadas-color-rojo-azul-joystick.webp",
-            "name": "X12 Plus",
-            "price": "$4500.00",
-            "Description": "consola portatil, 16 Gb de RAM",
-            "category": "consolas",
-            "id": 1
-        },
-        {
-            "img": "https://revistasociosams.com/wp-content/uploads/2021/03/control-inalambrico-Xbox%E2%80%8B-1.png",
-            "name": "Control Xbox One",
-            "price": "$950.00",
-            "Description": "Control Xbox serie One",
-            "category": "consolas",
-            "id": 2
-        },
-        {
-            "img": "https://www.incentivosblackhawk.com.mx/wp-content/uploads/2022/05/Steam.png",
-            "name": "Steam Card",
-            "price": "$200.00",
-            "Description": "steam card 200 pelucholares",
-            "category": "consolas",
-            "id": 3
-        },
-        {
-            "img": "https://www.techpowerup.com/review/scuf-impact-controller-ps4-pc/images/small.png",
-            "name": "Control usb",
-            "price": "$500.00",
-            "Description": "Control de china",
-            "category": "consolas",
-            "id": 4
-        },
-        {
-            "img": "https://virtumaniacos.com/wp-content/uploads/2022/03/playstation-vr-visor.webp",
-            "name": "Oculus Quest 2 ",
-            "price": "$4500.00",
-            "Description": "Su versatilidad nos va a permitir usarlas en formato Standalone, es decir no depende de ningún otro elemento como cámaras o hardware externo, y esto las ha convertido el las gafas VR más vendidas desde 2020. Incluso puedes conectarlas a un ordenador (opcional) por cable o por wifi para jugar a juegos y usar aplicaciones aún más exigentes. ",
-            "category": "consolas",
-            "id": 5
-        },
-        {
-            "img": "https://otakutienda.com/cdn/shop/products/IMG_5186_580x.png?v=1644943571",
-            "name": "Pikachu Itachi  edition",
-            "price": "$500.00",
-            "Description": "Edición especial Pikachu Itachi  anbu",
-            "category": "diversos",
-            "id": 1
-        },
-        {
-            "img": "https://ggezstore.net/wp-content/uploads/2021/12/DEADPOOL-PIKACHU-e1640658722195.png",
-            "name": "Pikachu Deadpool",
-            "price": "$250.00",
-            "Description": "Pikachu edición deadpool",
-            "category": "diversos",
-            "id": 2
-        },
-        {
-            "img": "https://cdn.shopify.com/s/files/1/2437/4099/products/spider-man_marvel_silo_480x672.png?v=1649713239",
-            "name": "Spiderman Hot Toys",
-            "price": "$660.00",
-            "Description": "Hot Toys CosRider: Marvel Spider Man Far From Home - Spider Man — Distrito Max",
-            "category": "diversos",
-            "id": 3
-        },
-        {
-            "img": "https://www.panupli.es/3364-large_default/funko-pop-es-dla-gandalf-montado-en-gwaihir.jpg",
-            "name": "Funko Gandalf en Gwaihir",
-            "price": "$600.00",
-            "Description": "Colecciona el Funko POP de Gandalf montado en el águila Gwaihir de las increíbles películas de El Señor de los Anillos",
-            "category": "diversos",
-            "id": 4
-        },
-        {
-            "img": "https://lemongamesmx.com/cdn/shop/products/fun55641-dragon-ball-z-cell-first-form-glow-in-the-dark-pop-vinyl-figure-popcultcha-01_480x480.png?v=1661980008",
-            "name": "Cell DBZ",
-            "price": "$450.00",
-            "Description": "Cell primera forma, retroiluminado",
-            "category": "diversos",
-            "id": 5
-        }
-    ]
+"videos":
+[
+    {
+      "titulo": "cuando usar let,var y const",
+      "Categoria": "Front End",
+      "linkImagenVideo": "https://i.ytimg.com/vi/PztCEdIJITY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2qK3Zjt_Y4Di7_0Hv5sJjrvkosQ",
+      "linkVideo": "https://www.youtube.com/embed/PztCEdIJITY?si=FQrX_LZH-f_FSyRN",
+      "descripcion": "In the modern design world, Lorem Ipsum is the industry standard when placing dummy text onto an unfinished page, whether it's a newspaper, magazine, or advertisement. The Latin text was first used in the 16th century, when a printer scrambled a row of type (known as a ",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "titulo": "que es javascript",
+      "linkVideo": "https://www.youtube.com/watch?v=GJfOSoaXk4s&t=433s",
+      "linkImagenVideo": "https://i.ytimg.com/vi/GJfOSoaXk4s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKpxz6vMwTw26HQyprrrwHFadQ2g",
+      "Categoria": "Front End",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Que son las softs skills",
+      "linkVideo": "https://www.youtube.com/watch?v=vhwspfvI52k&t=189s",
+      "Categoria": "Innovacion y Gestion",
+      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/vhwspfvI52k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB69jh2_4uiilDUzFYKS6IZMQh5Ag",
+      "id": 8
+    },
+    {
+      "titulo": "Spring Framework. ¿Qué es ? ",
+      "linkVideo": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "Categoria": "Back End",
+      "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.\n¿Quieres saber más?\n",
+      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685481249/jqbckgtqqpcyqwjwg6au.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "Box Model y Box sizing",
+      "linkVideo": "https://www.youtube.com/watch?v=ts9qfCKamKg&t=5s",
+      "Categoria": "Front End",
+      "descripcion": "Box Model y Box sizing",
+      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685567216/yc9xhaj1airravb07kdh.jpg",
+      "id": 10
+    },
+    {
+      "titulo": "Empresas que aprenden ",
+      "linkVideo": "https://www.youtube.com/watch?v=mwNfWRsDDWE",
+      "Categoria": "Innovacion y Gestion",
+      "descripcion": "**El aprendizaje organizacional promueve tanto la adaptación al cambio como el crecimiento de la empresa**. Pero, ¿tienes alguna idea de cómo hacerse esto? En este Alura+, Priscila Stuani habla sobre el papel de la organización en el proceso de aprendizaje de sus profesionales.\n\nLas organizaciones tienen responsabilidades en el proceso de aprendizaje de sus colaboradores. Una de las formas de actuar en este sentido es potenciar algunas habilidades, como el pensamiento sistémico, el dominio personal, trabajar modelos mentales, construir una visión compartida, aprender en equipo y reconocer los patrones de interacción que dificultan este aprendizaje, además de componentes de tecnologías estimulantes.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/mwNfWRsDDWE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9levva-DWisx43Wh-YR3Cr_9WCw",
+      "id": 11
+    },
+    {
+      "titulo": "7 Soft Skills más deseadas por las empresas",
+      "linkVideo": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+      "Categoria": "Innovacion y Gestion",
+      "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.\n\n¿Quieres saber más?\n\nVe nuestros cursos de Innovación y Gestión:\nhttps://www.aluracursos.com/cursos-on...\n\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile",
+      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685580828/hze70ejhyfzdw74k8tk8.jpg",
+      "id": 12
+    },
+    {
+      "titulo": "Simplificando tu código en Java: Conoce los enum ",
+      "linkVideo": "https://www.youtube.com/watch?v=EoPvlE85XAQ&t=68s",
+      "Categoria": "Back End",
+      "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? \nEn este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.\n\n¿Te gustaría aprender Java desde 0 en nuestra plataforma? Da click aqui - https://www.aluracursos.com/formacion...\nConoce más detalles sobre los tipos de datos enum visitando la documentación oficial - https://docs.oracle.com/javase/tutori...",
+      "linkImagenVideo": "https://i.ytimg.com/vi/EoPvlE85XAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPs_pZWDQJClLViVgQYyfBgD8qkw",
+      "id": 13
+    },
+    {
+      "titulo": "Machine Learning",
+      "linkVideo": "https://www.youtube.com/watch?v=edS0Fhg0xyM",
+      "Categoria": "Data Science",
+      "descripcion": "Ve nuestros cursos de Machine Learning\nhttps://www.aluracursos.com/cursos-on...\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile\n\nProducción audiovisual: Henrique Balleiras\n",
+      "linkImagenVideo": "https://i.ytimg.com/vi/edS0Fhg0xyM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjB5ma1pH7Jv8WTb5CJPVHN98LAA",
+      "id": 14
+    },
+    {
+      "titulo": "Aprendiendo a utilizar Figma",
+      "linkVideo": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "Categoria": "Front End",
+      "descripcion": "\nEn este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.\n\n¿Quieres saber más?\n\nEntra a nuestra plataforma, dónde encontrarás variados cursos de tecnología:\nhttps://www.aluracursos.com/\n\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile",
+      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685820371/g05mariipqt8dttkzxkb.jpg",
+      "id": 15
+    },
+    {
+      "titulo": "Equipo front end",
+      "linkVideo": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "Categoria": "Front End",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
+      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685821856/q58g3swdjnxv30u3jkux.png",
+      "id": 16
+    },
+    {
+      "Categoria": "Data Science",
+      "descripcion": "En este video te llevaremos por las mejores técnicas para mejorar tu aprendizaje y retención. Ya sea que estés estudiando",
+      "linkVideo": "https://youtu.be/KSyqCUAr2CU?si=xACWe6LNVqHH0adG",
+      "linkImagenVideo": "https://i.ytimg.com/vi/KSyqCUAr2CU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvH4yObXB7m7x6AiA5D6k27pJWMQ",
+      "titulo": "Técnicas para mejorar tu aprendizaje #AluraMás",
+      "id": 3
+    }
+  ],
+  "categorias" : [
+    {
+      "id": 1,
+      "nombre": "Front End",
+      "color": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "nombre": "Back End",
+      "color": "#00C86F"
+    },
+    {
+      "id": 3,
+      "nombre": "Innovacion y Gestion",
+      "color": "#FFBA05"
+    }
+  ]
 }
